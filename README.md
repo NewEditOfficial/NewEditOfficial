@@ -4,6 +4,10 @@
 * IT student
 * Languages: CZ, SK, ENG
 
+# Contact
+
+* Discord: NewEdit#8679
+
 # Skills
 
 * HTML5, CSS3, (++)
@@ -16,7 +20,7 @@
 
 * Web Development - PHP + Laravel
 * FiveM Development - Scripts (Tebex)
-* OutlawRoleplay.cz - RedM
+* outlawroleplay.cz - RedM
 * Own business
 
 # History
