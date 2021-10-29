@@ -1,5 +1,15 @@
 # Edit
 
+* IT student
+* Languages: CZ, SK, ENG
+
+# Skills
+
+* HTML5, CSS3, (++)
+* MySQL (++)
+* PHP (+)
+* Lua (++++)
+* GTA:V / RedM - research (++++)
 
 # Project(s)
 
@@ -10,5 +20,5 @@
 
 # History
 
-* KKRP.cz
-* LSRP.cz
+* KKRP.cz - FiveM
+* LSRP.cz - FiveM
