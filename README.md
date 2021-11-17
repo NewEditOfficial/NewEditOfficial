@@ -19,11 +19,11 @@
 # Project(s)
 
 * Web Development - PHP + Laravel
-* FiveM Development - Scripts (Tebex)
+* FiveM Development - Endless Studio
 * outlawroleplay.cz - RedM
+* KKRP.cz
 * Own business
 
 # History
 
-* KKRP.cz - FiveM
 * LSRP.cz - FiveM
