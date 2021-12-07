@@ -20,7 +20,6 @@
 
 * Web Development - PHP + Laravel
 * FiveM Development - Endless Studio
-* outlawroleplay.cz - RedM
 * KKRP.cz
 * Own business
 
