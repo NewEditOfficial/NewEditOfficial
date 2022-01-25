@@ -20,9 +20,9 @@
 
 * Web Development - PHP + Laravel
 * FiveM Development - Endless Studio
-* KKRP.cz
 * Own business
 
 # History
 
+* KKRP.cz
 * LSRP.cz - FiveM
