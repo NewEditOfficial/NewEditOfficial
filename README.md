@@ -1,6 +1,6 @@
 # Edit
 
-* 20 years
+* 20
 * IT student
 * Languages: CZ, SK, ENG
 
