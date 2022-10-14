@@ -12,7 +12,7 @@
 
 * HTML5, CSS3, (++)
 * MySQL (++)
-* PHP (+)
+* PHP (++)
 * Lua (++++)
 * GTA:V / RedM - research (++++)
 
