@@ -1,6 +1,6 @@
 # Edit
 
-* 20
+* 22
 * IT student
 * Languages: CZ, SK, ENG
 
@@ -19,7 +19,7 @@
 # Project(s)
 
 * Web Development - PHP + Laravel
-* FiveM Development - Endless Studio
+* FiveM Development - store.rcore.cz
 * Own business
 
 # History
