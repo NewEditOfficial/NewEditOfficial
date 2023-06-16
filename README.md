@@ -1,7 +1,6 @@
 # Edit
 
 * 22
-* IT student
 * Languages: CZ, SK, ENG
 
 # Contact
