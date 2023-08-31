@@ -5,7 +5,7 @@
 
 # Contact
 
-* Discord: NewEdit#8679
+* Discord: NewEdit
 
 # Skills
 
@@ -19,6 +19,7 @@
 
 * Web Development - PHP + Laravel
 * FiveM Development - store.rcore.cz
+* FiveM server - nosecs.tv
 * Own business
 
 # History
