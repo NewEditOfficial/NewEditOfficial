@@ -9,10 +9,10 @@
 
 # Skills
 
-* HTML5, CSS3, (++)
-* MySQL (++)
 * PHP (++)
 * Lua (++++)
+* React
+* Typescript
 * GTA:V / RedM - research (++++)
 
 # Project(s)
