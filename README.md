@@ -9,7 +9,6 @@
 
 # Skills
 
-* PHP (++)
 * Lua (++++)
 * React
 * Typescript
@@ -17,7 +16,7 @@
 
 # Project(s)
 
-* Web Development - PHP + Laravel
+* Web Development - React, Next, Mantine UI
 * FiveM Development - store.rcore.cz
 * FiveM server - nosecs.tv
 * Own business
