@@ -23,5 +23,4 @@
 
 # History
 
-* KKRP.cz - FiveM
 * LSRP.cz - FiveM
